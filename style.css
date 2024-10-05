@@ -1,0 +1,32 @@
+body {
+    font-family: "Lucida Handwriting";
+}
+
+h1 {
+    font-size: 72px;
+}
+
+.recipe {
+    font-size: 24px;
+}
+
+.logo {
+    width: 520px;
+    height: auto;
+}
+
+a:link{
+    color: black;
+}
+
+a:active {
+    color: blue;
+}
+
+a:visited {
+    color: rgb(179, 179, 179);
+}
+
+a:hover {
+    color: blue;
+}
